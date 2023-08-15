@@ -1,3 +1,0 @@
-Name: Khushavant Dafre
-Skills: HTML/CSS Javascript React.js Node.js/express
-Email: khushwant.dafre@gmail.com
